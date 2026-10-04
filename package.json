@@ -1,0 +1,14 @@
+{
+  "name": "verifactu-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy mTLS para VeriFactu (AEAT) — recibe el certificado en cada petición.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
